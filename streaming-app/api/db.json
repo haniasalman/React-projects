@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "title": "Hania's Stream",
+      "description": "this is my first stream",
+      "id": 1
+    },
+    {
+      "title": "Naruto Stream",
+      "description": "this is my fav anime streaming",
+      "id": 2
+    },
+    {
+      "title": "New Stream after modification",
+      "description": "user Id is added in this new stream",
+      "userId": "111736721399912891171",
+      "id": 3
+    },
+    {
+      "title": "Programatic navigation stream",
+      "description": "this is done to send user to main page",
+      "userId": "111736721399912891171",
+      "id": 4
+    },
+    {
+      "title": "deleted stream",
+      "description": "hello i have completed the deleted stream",
+      "userId": "111736721399912891171",
+      "id": 5
+    },
+    {
+      "title": "my stream",
+      "description": "hello there is edited by hania",
+      "userId": "111736721399912891171",
+      "id": 6
+    },
+    {
+      "title": "new stream ",
+      "description": "mondayyyy",
+      "userId": "111736721399912891171",
+      "id": 7
+    }
+  ]
+}
