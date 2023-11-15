@@ -1,7 +1,7 @@
 
 import axios from 'axios'; //3rd part package to fetch network requests. 
 
-const KEY = 'AIzaSyAcyp5B2_tvljWYxxizVDNkyYu6TcDb6Nk'
+const KEY = 'YOUR_API_KEY'
 
 
 //create method is used to create instance of axios and then pass default properties in it
